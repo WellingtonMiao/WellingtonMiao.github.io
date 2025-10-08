@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia     :
   arxiv        :
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar:    # removed to hide Google Scholar from sidebar
   inspire-hep  :
   impactstory  :
   orcid        :
@@ -47,7 +47,7 @@ author:
   bitbucket    :
   codepen      :
   dribbble     :
-  github       : "WellingtonMiao"
+  github       :    # removed to hide GitHub from sidebar
   kaggle       :
   stackoverflow:
 
@@ -62,7 +62,7 @@ author:
   keybase      :
   instagram    :
   lastfm       :
-  linkedin     :
+  linkedin     : "yuxuan-wellington-miao-a07b4032b"  # LinkedIn username (not full URL)
   mastodon     :
   medium       :
   pinterest    :
