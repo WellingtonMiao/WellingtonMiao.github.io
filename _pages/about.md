@@ -7,6 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the Academic Pages template and hosted on GitHub pages. GitHub pages is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the Minimal Mistakes Jekyll Theme created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
-You can fork this template right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Yuxuan Miao is a Master's stuednt in Human-Centered Computing at University of Washington, Seattle, advised by Prof. Yiyue Luo. His research lies at the intersection of Human-Computer Interaction, Embedded System, and Co-design.
