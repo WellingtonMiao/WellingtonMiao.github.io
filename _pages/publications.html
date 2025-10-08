@@ -5,34 +5,18 @@ layout: single
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign cat_key   = category[0] %}
-    {% assign cat_title = category[1].title %}
-    {% assign items = site.publications | where: "category", cat_key | sort: "date" | reverse %}
-    {% if items and items.size > 0 %}
-      <h2>{{ cat_title }}</h2>
-      <hr />
-      {% for p in items %}
-        <p>{{ p.citation | markdownify | replace: "<p>", "" | replace: "</p>", "" }}</p>
-        {% if p.paperurl %}
-          <p><a href="{{ p.paperurl }}" class="btn btn--primary" target="_blank" rel="noopener">Download Paper</a></p>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-  {% endfor %}
-{% else %}
-  {% assign items = site.publications | sort: "date" | reverse %}
+{% assign items = site.publications | where: "category", "conferences" | sort: "date" | reverse %}
+{% if items and items.size > 0 %}
+  <h2>Conference Papers</h2>
+  <hr />
   {% for p in items %}
     <p>{{ p.citation | markdownify | replace: "<p>", "" | replace: "</p>", "" }}</p>
     {% if p.paperurl %}
       <p><a href="{{ p.paperurl }}" class="btn btn--primary" target="_blank" rel="noopener">Download Paper</a></p>
     {% endif %}
   {% endfor %}
+{% else %}
+  <p>No conference publications yet.</p>
 {% endif %}
