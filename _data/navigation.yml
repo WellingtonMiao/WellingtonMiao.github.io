@@ -7,14 +7,12 @@
 # NOTE: Only keep one CV option in navigation. This version links to /cv/ page.
 
 main:
-  - title: "about"
+  - title: "About"
     url: /about/
-
-  - title: "publications"
+  - title: "Publications"
     url: /publications/
-
-  - title: "projects"
+  - title: "Projects"
     url: /projects/
+  - title: "CV"
+    url: /cv/      
 
-  - title: "cv"
-    url: /cv/
