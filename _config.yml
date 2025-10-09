@@ -26,10 +26,10 @@ author:
   name         : "Yuxuan (Wellington) Miao"
   pronouns     :
   bio          : "Short biography for the left-hand sidebar"
-  location     : "Seattle, USA"
-  employer     : "University of Washington"
+  location     : "Seattle, Washington"
+  # employer     : "University of Washington"
   uri          :
-  email        : "ymiao6@uw.edu"
+  email        : "abc@uw.edu"
 
   # Academic websites
   academia     :
