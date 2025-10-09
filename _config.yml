@@ -25,7 +25,7 @@ author:
   avatar       : "profile.png"        # file should be placed in /images/
   name         : "Yuxuan (Wellington) Miao"
   pronouns     :
-  bio          : "Short biography for the left-hand sidebar"
+  bio          : 
   location     : "Seattle, Washington"
   # employer     : "University of Washington"
   uri          :
