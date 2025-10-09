@@ -11,5 +11,5 @@ redirect_from:
 
 His research lies at the intersection of Human–Computer Interaction (HCI), Wearable Systems, and Ubiquitous Computing. He builds full-stack interactive devices for multimodal sensing, haptics, and tactile interaction, and more broadly explores intelligent, compact, and expressive interfaces that push the boundaries of HCI.
 
-He is seeking Ph.D. admission starting in 2026.
+He is seeking Ph.D. admission starting in Autumn 2026.
 
