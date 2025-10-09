@@ -29,7 +29,7 @@ author:
   location     : "Seattle, Washington"
   # employer     : "University of Washington"
   uri          :
-  email        :    # cleared so the default "Email" label is hidden
+  email        : "ymiao6@uw.edu" 
 
   # Academic websites
   academia     :
