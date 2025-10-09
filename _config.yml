@@ -29,7 +29,7 @@ author:
   location     : "Seattle, Washington"
   # employer     : "University of Washington"
   uri          :
-  email        : "ymiao6@uw.edu" 
+  email        : "ymiao6@uw.edu"
 
   # Academic websites
   academia     :
@@ -77,12 +77,6 @@ author:
   xing         :
   youtube      :
   zhihu        :
-
-  # Custom links shown in the sidebar (email text with mailto link)
-  links:
-    - label: "ymiao6@uw.edu"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:ymiao6@uw.edu"
 
 # -----------------------------
 # Publication Category Headings
