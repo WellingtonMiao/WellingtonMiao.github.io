@@ -1,20 +1,29 @@
 ---
 title: "Publications"
 permalink: /publications/
-layout: archive
+layout: single
 author_profile: true
 ---
 
 {% include base_path %}
 
-<h2>Conference Papers</h2>
-<hr />
-
-{% assign items = site.publications
-                  | where: "category", "conferences"
-                  | sort: "date"
-                  | reverse %}
-
-{% for post in items %}
-  {% include archive-single.html type="archive" %}
-{% endfor %}
+{% assign items = site.publications | where: "category", "conferences" | sort: "date" | reverse %}
+{% if items and items.size > 0 %}
+  <h2>Conference Papers</h2>
+  <hr />
+  {% for p in items %}
+    <p>{{ p.citation | markdownify | replace: "<p>", "" | replace: "</p>", "" }}</p>
+    {% if p.paperurl %}
+      <p>
+        <a href="{{ p.paperurl }}"
+           class="btn btn--primary"
+           target="_blank"
+           rel="noopener">
+           ACM Digital Library
+        </a>
+      </p>
+    {% endif %}
+  {% endfor %}
+{% else %}
+  <p>No conference publications yet.</p>
+{% endif %}
