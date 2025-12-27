@@ -11,8 +11,6 @@ redirect_from:
 
 ## Education
 
-<div style="padding-left:1em;">
-
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.2rem;">
   <div><strong>University of Washington</strong>, Seattle, WA</div>
   <div style="white-space:nowrap;">Sep 2024 – Jun 2026</div>
@@ -21,8 +19,8 @@ redirect_from:
   M.S. in Electrical Engineering
 </div>
 
-- <span style="white-space:nowrap;"><a href="https://yyueluo.com/group.html" target="_blank" rel="noopener noreferrer">Wearable Intelligence Lab</a>, Advised by Prof. Yiyue Luo</span>
-- <span style="white-space:nowrap;"><a href="https://ubicomplab.cs.washington.edu/" target="_blank" rel="noopener noreferrer">Ubicomp Lab</a>, Advised by Prof. Shwetak Patel and PhD Student Jerry Cao</span>
+- <a href="https://yyueluo.com/group.html" target="_blank" rel="noopener noreferrer">Wearable Intelligence Lab</a>, Advised by Prof. Yiyue Luo
+- <a href="https://ubicomplab.cs.washington.edu/" target="_blank" rel="noopener noreferrer">Ubicomp Lab</a>, Advised by Prof. Shwetak Patel and PhD Student Jerry Cao
 
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.8rem;">
   <div><strong>University of Macau</strong>, Taipa, Macau</div>
@@ -49,8 +47,6 @@ redirect_from:
   Exchange Program, Hajim School of Engineering &amp; Applied Sciences
 </div>
 
-</div>
-
 ---
 
 ## Publications
@@ -68,21 +64,15 @@ redirect_from:
 
 ## Teaching
 
-<div style="padding-left:1em;">
-
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
   <div><strong>Teaching Assistant — EE 546: Emerging Interactive Technologies</strong>, University of Washington</div>
   <div style="white-space:nowrap;">Mar 2025 – Jun 2025</div>
 </div>
 Instructor: Yiyue Luo
 
-</div>
-
 ---
 
 ## Projects
-
-<div style="padding-left:1em;">
 
 **Multifunctional Human–Machine Interface Enabled by Magnetoactive Textiles**  
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
@@ -130,19 +120,13 @@ Instructor: Yiyue Luo
   <li><span style="color:#FFA500;"><strong>Dean’s Honor List for Undergraduate Thesis</strong></span></li>
 </ul>
 
-</div>
-
 ---
 
 ## Employment
 
-<div style="padding-left:1em;">
-
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
   <div><strong>Residential Assistant</strong> — Cheng Yu Tung College, University of Macau</div>
   <div style="white-space:nowrap;">May 2022 – Dec 2022</div>
-</div>
-
 </div>
 
 ---
