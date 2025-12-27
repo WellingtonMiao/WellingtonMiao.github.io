@@ -1,5 +1,5 @@
 ---
-title: "[3] CHI 2026 submission (under review)"
+title: "CHI 2026 submission (under review)"
 collection: publications
 category: conferences
 permalink: /publication/chi2026-submission-6th
