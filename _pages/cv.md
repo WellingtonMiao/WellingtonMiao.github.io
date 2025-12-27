@@ -81,7 +81,7 @@ Instructor: Yiyue Luo · Mar 2025 – Jun 2025
 - Built an asset-tracking system using custom hardware, low-power embedded firmware, and a web dashboard for real-time location tracking, battery monitoring, and remote recalls  
 - Leveraged Wi-Fi-based positioning, pressure sensing for floor-level estimation, and a latching LED circuit for visual alerts  
 
-<div style="margin-left:1.2em;">
+<div style="margin-left:1.25em;">
   <span style="color:#FFA500;">**First Prize, ENGINE Capstone Program 2025 (Top 2 among 59 projects)**</span>
 </div>
 
@@ -101,7 +101,7 @@ Instructor: Yiyue Luo · Mar 2025 – Jun 2025
 - Developed a 25 mm² PCB-patterned microcoil assembly motor-rotated inside an NMR magnet bore to map spatial magnetic field distribution via induced EMF measurements  
 - Reduced temperature sensitivity; achieved agreement with traditional methods within 0.5%  
 
-<div style="margin-left:1.2em;">
+<div style="margin-left:1.25em;">
   <span style="color:#FFA500;">**Dean’s Honor List for Undergraduate Thesis**</span>
 </div>
 
