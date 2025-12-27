@@ -11,29 +11,25 @@ redirect_from:
 
 ## Education
 
-<table style="width:100%; border-collapse:collapse;">
-  <tr>
-    <td><strong>University of Washington</strong>, Seattle, WA — <em>M.S. in Electrical Engineering</em></td>
-    <td style="text-align:right; white-space:nowrap;">Sep 2024 – Jun 2026</td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.2rem;">
+  <div><strong>University of Washington</strong>, Seattle, WA — <em>M.S. in Electrical Engineering</em></div>
+  <div style="white-space:nowrap;">Sep 2024 – Jun 2026</div>
+</div>
+
 - Wearable Intelligence Lab, Advised by Prof. Yiyue Luo
 - Ubicomp Lab, Advised by Prof. Shwetak Patel and PhD Student Jerry Cao
 
-<table style="width:100%; border-collapse:collapse; margin-top:0.6rem;">
-  <tr>
-    <td><strong>University of Macau</strong>, Taipa, Macau — <em>B.S. in Electrical and Computer Engineering</em></td>
-    <td style="text-align:right; white-space:nowrap;">Sep 2020 – Aug 2024</td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.8rem;">
+  <div><strong>University of Macau</strong>, Taipa, Macau — <em>B.S. in Electrical and Computer Engineering</em></div>
+  <div style="white-space:nowrap;">Sep 2020 – Aug 2024</div>
+</div>
+
 - [Honours College Certificate Programme](https://hc.um.edu.mo/) (selective Honors College program)
 
-<table style="width:100%; border-collapse:collapse; margin-top:0.6rem;">
-  <tr>
-    <td><strong>University of Rochester</strong>, Rochester, NY — <em>Exchange Program, Hajim School of Engineering & Applied Sciences</em></td>
-    <td style="text-align:right; white-space:nowrap;">Jan 2023 – May 2023</td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.8rem;">
+  <div><strong>University of Rochester</strong>, Rochester, NY — <em>Exchange Program, Hajim School of Engineering &amp; Applied Sciences</em></div>
+  <div style="white-space:nowrap;">Jan 2023 – May 2023</div>
+</div>
 
 ---
 
@@ -69,6 +65,11 @@ ENGINE Capstone Project · Advised by University of Washington Medical Center ·
 - Built an asset-tracking system using custom hardware, low-power embedded firmware, and a web dashboard for real-time location tracking, battery monitoring, and remote recalls  
 - Leveraged Wi-Fi-based positioning, pressure sensing for floor-level estimation, and a latching LED circuit for visual alerts  
 - <span style="color:#FFA500;">**First Prize, ENGINE Capstone Program 2025 (Top 2 among 59 projects)**</span>
+
+**HaptiDrum**  
+Advanced Embedded System Capstone Project · Instructor: Shwetak Patel · Mar 2025 – Jun 2025  
+- Developed a wearable air-drumming system with high-frequency motion tracking and advanced haptics  
+- Implemented precisely controlled electrical muscle stimulation (EMS) with hardware-level safety mechanisms to simulate realistic drumming sensations  
 
 **Miniaturized Rotational Probe for Magnetic Field Mapping**  
 Undergraduate Thesis · Advisor: Ka-Meng LEI · Aug 2023 – May 2024  
