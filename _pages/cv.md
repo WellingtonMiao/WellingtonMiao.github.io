@@ -58,8 +58,11 @@ redirect_from:
 
 ## Teaching
 
-**Teaching Assistant — EE 546: Emerging Interactive Technologies**, University of Washington  
-Instructor: Yiyue Luo · Mar 2025 – Jun 2025  
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
+  <div><strong>Teaching Assistant — EE 546: Emerging Interactive Technologies</strong>, University of Washington</div>
+  <div style="white-space:nowrap;">Mar 2025 – Jun 2025</div>
+</div>
+Instructor: Yiyue Luo
 
 ---
 
@@ -73,6 +76,8 @@ Instructor: Yiyue Luo · Mar 2025 – Jun 2025
 - Developed a bidirectional human–machine interface platform integrating sensing and haptic feedback in a unified wearable structure by embedding soft magnetoactive fibers into machine-knitted electromagnets  
 - Demonstrated applications including a wireless smart sleeve for game control, a haptic Braille glove, and a closed-loop knee brace–glove system for running-speed monitoring and feedback  
 
+<div style="margin-top:1.6rem;"></div>
+
 **Next Generation Asset Tracking System**  
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
   <div>ENGINE Capstone Project · Advised by University of Washington Medical Center</div>
@@ -85,6 +90,8 @@ Instructor: Yiyue Luo · Mar 2025 – Jun 2025
   <li><span style="color:#FFA500;"><strong>First Prize, ENGINE Capstone Program 2025 (Top 2 among 59 projects)</strong></span></li>
 </ul>
 
+<div style="margin-top:1.6rem;"></div>
+
 **HaptiDrum**  
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
   <div>Advanced Embedded System Capstone Project · Instructor: Shwetak Patel</div>
@@ -92,6 +99,8 @@ Instructor: Yiyue Luo · Mar 2025 – Jun 2025
 </div>
 - Developed a wearable air-drumming system with high-frequency motion tracking and advanced haptics  
 - Implemented precisely controlled electrical muscle stimulation (EMS) with hardware-level safety mechanisms to simulate realistic drumming sensations  
+
+<div style="margin-top:1.6rem;"></div>
 
 **Miniaturized Rotational Probe for Magnetic Field Mapping**  
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
@@ -109,8 +118,10 @@ Instructor: Yiyue Luo · Mar 2025 – Jun 2025
 
 ## Employment
 
-**Residential Assistant** — Cheng Yu Tung College, University of Macau  
-May 2022 – Dec 2022  
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
+  <div><strong>Residential Assistant</strong> — Cheng Yu Tung College, University of Macau</div>
+  <div style="white-space:nowrap;">May 2022 – Dec 2022</div>
+</div>
 
 ---
 
