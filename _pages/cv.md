@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.2rem;">
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; width:100%; font-size:1.08em; line-height:1.35; margin-top:0.2rem;">
   <div><strong>University of Washington</strong>, Seattle, WA</div>
   <div style="white-space:nowrap;">Sep 2024 – Jun 2026</div>
 </div>
@@ -22,7 +22,7 @@ redirect_from:
 - Wearable Intelligence Lab, Advised by Prof. Yiyue Luo
 - Ubicomp Lab, Advised by Prof. Shwetak Patel and PhD Student Jerry Cao
 
-<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.8rem;">
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; width:100%; font-size:1.08em; line-height:1.35; margin-top:0.8rem;">
   <div><strong>University of Macau</strong>, Taipa, Macau</div>
   <div style="white-space:nowrap;">Sep 2020 – Aug 2024</div>
 </div>
@@ -33,7 +33,7 @@ redirect_from:
   <a href="https://hc.um.edu.mo/">Honours College Certificate Programme</a> (selective Honors College program)
 </div>
 
-<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.8rem;">
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; width:100%; font-size:1.08em; line-height:1.35; margin-top:0.8rem;">
   <div><strong>University of Rochester</strong>, Rochester, NY</div>
   <div style="white-space:nowrap;">Jan 2023 – May 2023</div>
 </div>
@@ -58,50 +58,59 @@ redirect_from:
 
 ## Teaching
 
-**Teaching Assistant — EE 546: Emerging Interactive Technologies**, University of Washington  
-Instructor: Yiyue Luo · Mar 2025 – Jun 2025  
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; width:100%;">
+  <div><strong>Teaching Assistant — EE 546: Emerging Interactive Technologies</strong>, University of Washington</div>
+  <div style="white-space:nowrap;">Mar 2025 – Jun 2025</div>
+</div>
+Instructor: Yiyue Luo
 
 ---
 
 ## Projects
 
 **Multifunctional Human–Machine Interface Enabled by Magnetoactive Textiles**  
-<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; width:100%; line-height:1.2; margin:0;">
   <div>Graduate Research · Advisor: Yiyue Luo</div>
   <div style="white-space:nowrap;">Oct 2024 – Current</div>
 </div>
-- Developed a bidirectional human–machine interface platform integrating sensing and haptic feedback in a unified wearable structure by embedding soft magnetoactive fibers into machine-knitted electromagnets  
-- Demonstrated applications including a wireless smart sleeve for game control, a haptic Braille glove, and a closed-loop knee brace–glove system for running-speed monitoring and feedback  
+<ul style="margin-top:0.15rem; margin-bottom:0.25rem; line-height:1.2;">
+  <li>Developed a bidirectional human–machine interface platform integrating sensing and haptic feedback in a unified wearable structure by embedding soft magnetoactive fibers into machine-knitted electromagnets</li>
+  <li>Demonstrated applications including a wireless smart sleeve for game control, a haptic Braille glove, and a closed-loop knee brace–glove system for running-speed monitoring and feedback</li>
+</ul>
 
 **Next Generation Asset Tracking System**  
-<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; width:100%; line-height:1.2; margin:0;">
   <div>ENGINE Capstone Project · Advised by University of Washington Medical Center</div>
   <div style="white-space:nowrap;">Jan 2025 – Jun 2025</div>
 </div>
-- Built an asset-tracking system using custom hardware, low-power embedded firmware, and a web dashboard for real-time location tracking, battery monitoring, and remote recalls  
-- Leveraged Wi-Fi-based positioning, pressure sensing for floor-level estimation, and a latching LED circuit for visual alerts  
-
-<ul style="margin:0; padding-left:2.2em; list-style-type:none;">
+<ul style="margin-top:0.15rem; margin-bottom:0.1rem; line-height:1.2;">
+  <li>Built an asset-tracking system using custom hardware, low-power embedded firmware, and a web dashboard for real-time location tracking, battery monitoring, and remote recalls</li>
+  <li>Leveraged Wi-Fi-based positioning, pressure sensing for floor-level estimation, and a latching LED circuit for visual alerts</li>
+</ul>
+<ul style="margin:0; padding-left:2.2em; list-style-type:none; line-height:1.2;">
   <li><span style="color:#FFA500;"><strong>First Prize, ENGINE Capstone Program 2025 (Top 2 among 59 projects)</strong></span></li>
 </ul>
 
 **HaptiDrum**  
-<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; width:100%; line-height:1.2; margin:0;">
   <div>Advanced Embedded System Capstone Project · Instructor: Shwetak Patel</div>
   <div style="white-space:nowrap;">Mar 2025 – Jun 2025</div>
 </div>
-- Developed a wearable air-drumming system with high-frequency motion tracking and advanced haptics  
-- Implemented precisely controlled electrical muscle stimulation (EMS) with hardware-level safety mechanisms to simulate realistic drumming sensations  
+<ul style="margin-top:0.15rem; margin-bottom:0.25rem; line-height:1.2;">
+  <li>Developed a wearable air-drumming system with high-frequency motion tracking and advanced haptics</li>
+  <li>Implemented precisely controlled electrical muscle stimulation (EMS) with hardware-level safety mechanisms to simulate realistic drumming sensations</li>
+</ul>
 
 **Miniaturized Rotational Probe for Magnetic Field Mapping**  
-<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; width:100%; line-height:1.2; margin:0;">
   <div>Undergraduate Thesis · Advisor: Ka-Meng LEI</div>
   <div style="white-space:nowrap;">Aug 2023 – May 2024</div>
 </div>
-- Developed a 25 mm² PCB-patterned microcoil assembly motor-rotated inside an NMR magnet bore to map spatial magnetic field distribution via induced EMF measurements  
-- Reduced temperature sensitivity; achieved agreement with traditional methods within 0.5%  
-
-<ul style="margin:0; padding-left:2.2em; list-style-type:none;">
+<ul style="margin-top:0.15rem; margin-bottom:0.1rem; line-height:1.2;">
+  <li>Developed a 25 mm² PCB-patterned microcoil assembly motor-rotated inside an NMR magnet bore to map spatial magnetic field distribution via induced EMF measurements</li>
+  <li>Reduced temperature sensitivity; achieved agreement with traditional methods within 0.5%</li>
+</ul>
+<ul style="margin:0; padding-left:2.2em; list-style-type:none; line-height:1.2;">
   <li><span style="color:#FFA500;"><strong>Dean’s Honor List for Undergraduate Thesis</strong></span></li>
 </ul>
 
