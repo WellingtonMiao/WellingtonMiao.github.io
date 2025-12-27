@@ -15,4 +15,7 @@ main:
     url: /projects/
   - title: "CV"
     url: /cv/      
+  - title: "Fun"
+    url: /fun/
+
 
