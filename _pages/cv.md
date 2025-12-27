@@ -48,7 +48,7 @@ redirect_from:
 1. Sen Zhang, **Yuxuan Miao**, Jazlin Taylor, and Yiyue Luo.  
    **MagTex: Machine-Knitted Magnetoactive Textiles for Bidirectional Human-Machine Interface.**  
    *Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST ’25)*, 15 pages.  
-   <span style="color:#FFA500;">**Best Paper Honorable Mention Award (Top ~5%)**</span>
+   <span style="color:#FFA500;"><strong>Best Paper Honorable Mention Award (Top ~5%)</strong></span>
 
 2. Jerry Cao, Yuecheng Peng, **Yuxuan Miao**, Hongrui Wu, Sanjana Satagopan, Runxin Shi, Brier Hehmeyer, Brett Emery, Jeffrey Lipton, Jennifer Mankoff, and Shwetak Patel.  
    **Demonstrating SensiPrint: 3D-Printed Soft Foams for Physical Augmentation and Sensing.**  
@@ -81,9 +81,9 @@ Instructor: Yiyue Luo · Mar 2025 – Jun 2025
 - Built an asset-tracking system using custom hardware, low-power embedded firmware, and a web dashboard for real-time location tracking, battery monitoring, and remote recalls  
 - Leveraged Wi-Fi-based positioning, pressure sensing for floor-level estimation, and a latching LED circuit for visual alerts  
 
-<div style="margin-left:1.25em;">
-  <span style="color:#FFA500;">**First Prize, ENGINE Capstone Program 2025 (Top 2 among 59 projects)**</span>
-</div>
+<ul style="margin:0; padding-left:1.5em; list-style-type:none;">
+  <li><span style="color:#FFA500;"><strong>First Prize, ENGINE Capstone Program 2025 (Top 2 among 59 projects)</strong></span></li>
+</ul>
 
 **HaptiDrum**  
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
@@ -101,9 +101,9 @@ Instructor: Yiyue Luo · Mar 2025 – Jun 2025
 - Developed a 25 mm² PCB-patterned microcoil assembly motor-rotated inside an NMR magnet bore to map spatial magnetic field distribution via induced EMF measurements  
 - Reduced temperature sensitivity; achieved agreement with traditional methods within 0.5%  
 
-<div style="margin-left:1.25em;">
-  <span style="color:#FFA500;">**Dean’s Honor List for Undergraduate Thesis**</span>
-</div>
+<ul style="margin:0; padding-left:1.5em; list-style-type:none;">
+  <li><span style="color:#FFA500;"><strong>Dean’s Honor List for Undergraduate Thesis</strong></span></li>
+</ul>
 
 ---
 
