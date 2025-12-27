@@ -48,7 +48,7 @@ I’m a huge roller coaster fanatic. I still haven’t found one that can actual
   <a href="/images/04.jpg" target="_blank" rel="noopener noreferrer">
     <img src="/images/04.jpg" alt="Photo 04">
   </a>
-  <a href="/images/05.jpg" target="_blank" rel="noopener noreferrer">
-    <img src="/images/05.jpg" alt="Photo 05">
+  <a href="/images/06.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/images/06.jpg" alt="Photo 06">
   </a>
 </div>
