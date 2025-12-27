@@ -4,7 +4,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include portfolio_grid.html %}
+
 
 **Multifunctional Human–Machine Interface Enabled by Magnetoactive Textiles**  
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
