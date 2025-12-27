@@ -76,7 +76,7 @@ Instructor: Yiyue Luo
 - Developed a bidirectional human–machine interface platform integrating sensing and haptic feedback in a unified wearable structure by embedding soft magnetoactive fibers into machine-knitted electromagnets  
 - Demonstrated applications including a wireless smart sleeve for game control, a haptic Braille glove, and a closed-loop knee brace–glove system for running-speed monitoring and feedback  
 
-<div style="margin-top:1.6rem;"></div>
+
 
 **Next Generation Asset Tracking System**  
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
@@ -90,7 +90,7 @@ Instructor: Yiyue Luo
   <li><span style="color:#FFA500;"><strong>First Prize, ENGINE Capstone Program 2025 (Top 2 among 59 projects)</strong></span></li>
 </ul>
 
-<div style="margin-top:1.6rem;"></div>
+
 
 **HaptiDrum**  
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
@@ -100,7 +100,7 @@ Instructor: Yiyue Luo
 - Developed a wearable air-drumming system with high-frequency motion tracking and advanced haptics  
 - Implemented precisely controlled electrical muscle stimulation (EMS) with hardware-level safety mechanisms to simulate realistic drumming sensations  
 
-<div style="margin-top:1.6rem;"></div>
+
 
 **Miniaturized Rotational Probe for Magnetic Field Mapping**  
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
