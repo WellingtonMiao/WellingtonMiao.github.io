@@ -12,23 +12,31 @@ redirect_from:
 ## Education
 
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.2rem;">
-  <div><strong>University of Washington</strong>, Seattle, WA — <em>M.S. in Electrical Engineering</em></div>
+  <div><strong>University of Washington</strong>, Seattle, WA</div>
   <div style="white-space:nowrap;">Sep 2024 – Jun 2026</div>
+</div>
+<div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
+  <em>M.S. in Electrical Engineering</em>
 </div>
 
 - Wearable Intelligence Lab, Advised by Prof. Yiyue Luo
 - Ubicomp Lab, Advised by Prof. Shwetak Patel and PhD Student Jerry Cao
 
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.8rem;">
-  <div><strong>University of Macau</strong>, Taipa, Macau — <em>B.S. in Electrical and Computer Engineering</em></div>
+  <div><strong>University of Macau</strong>, Taipa, Macau</div>
   <div style="white-space:nowrap;">Sep 2020 – Aug 2024</div>
 </div>
-
+<div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
+  <em>B.S. in Electrical and Computer Engineering</em>
+</div>
 - [Honours College Certificate Programme](https://hc.um.edu.mo/) (selective Honors College program)
 
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.8rem;">
-  <div><strong>University of Rochester</strong>, Rochester, NY — <em>Exchange Program, Hajim School of Engineering &amp; Applied Sciences</em></div>
+  <div><strong>University of Rochester</strong>, Rochester, NY</div>
   <div style="white-space:nowrap;">Jan 2023 – May 2023</div>
+</div>
+<div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
+  <em>Exchange Program, Hajim School of Engineering &amp; Applied Sciences</em>
 </div>
 
 ---
@@ -38,7 +46,7 @@ redirect_from:
 1. Sen Zhang, **Yuxuan Miao**, Jazlin Taylor, and Yiyue Luo.  
    **MagTex: Machine-Knitted Magnetoactive Textiles for Bidirectional Human-Machine Interface.**  
    *Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST ’25)*, 15 pages.  
-   - <span style="color:#FFA500;">**Best Paper Honorable Mention Award (Top ~5%)**</span>
+   <span style="color:#FFA500;">**Best Paper Honorable Mention Award (Top ~5%)**</span>
 
 2. Jerry Cao, Yuecheng Peng, **Yuxuan Miao**, Hongrui Wu, Sanjana Satagopan, Runxin Shi, Brier Hehmeyer, Brett Emery, Jeffrey Lipton, Jennifer Mankoff, and Shwetak Patel.  
    **Demonstrating SensiPrint: 3D-Printed Soft Foams for Physical Augmentation and Sensing.**  
@@ -64,7 +72,7 @@ Graduate Research · Advisor: Yiyue Luo · Oct 2024 – Current
 ENGINE Capstone Project · Advised by University of Washington Medical Center · Jan 2025 – Jun 2025  
 - Built an asset-tracking system using custom hardware, low-power embedded firmware, and a web dashboard for real-time location tracking, battery monitoring, and remote recalls  
 - Leveraged Wi-Fi-based positioning, pressure sensing for floor-level estimation, and a latching LED circuit for visual alerts  
-- <span style="color:#FFA500;">**First Prize, ENGINE Capstone Program 2025 (Top 2 among 59 projects)**</span>
+<span style="color:#FFA500;">**First Prize, ENGINE Capstone Program 2025 (Top 2 among 59 projects)**</span>
 
 **HaptiDrum**  
 Advanced Embedded System Capstone Project · Instructor: Shwetak Patel · Mar 2025 – Jun 2025  
@@ -75,7 +83,7 @@ Advanced Embedded System Capstone Project · Instructor: Shwetak Patel · Mar 20
 Undergraduate Thesis · Advisor: Ka-Meng LEI · Aug 2023 – May 2024  
 - Developed a 25 mm² PCB-patterned microcoil assembly motor-rotated inside an NMR magnet bore to map spatial magnetic field distribution via induced EMF measurements  
 - Reduced temperature sensitivity; achieved agreement with traditional methods within 0.5%  
-- <span style="color:#FFA500;">**Dean’s Honor List for Undergraduate Thesis**</span>
+<span style="color:#FFA500;">**Dean’s Honor List for Undergraduate Thesis**</span>
 
 ---
 
