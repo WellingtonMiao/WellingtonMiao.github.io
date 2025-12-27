@@ -29,7 +29,9 @@ redirect_from:
 <div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
   <em>B.S. in Electrical and Computer Engineering</em>
 </div>
-- [Honours College Certificate Programme](https://hc.um.edu.mo/) (selective Honors College program)
+<div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
+  <a href="https://hc.um.edu.mo/">Honours College Certificate Programme</a> (selective Honors College program)
+</div>
 
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.8rem;">
   <div><strong>University of Rochester</strong>, Rochester, NY</div>
@@ -64,25 +66,39 @@ Instructor: Yiyue Luo · Mar 2025 – Jun 2025
 ## Projects
 
 **Multifunctional Human–Machine Interface Enabled by Magnetoactive Textiles**  
-Graduate Research · Advisor: Yiyue Luo · Oct 2024 – Current  
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
+  <div>Graduate Research · Advisor: Yiyue Luo</div>
+  <div style="white-space:nowrap;">Oct 2024 – Current</div>
+</div>
 - Developed a bidirectional human–machine interface platform integrating sensing and haptic feedback in a unified wearable structure by embedding soft magnetoactive fibers into machine-knitted electromagnets  
 - Demonstrated applications including a wireless smart sleeve for game control, a haptic Braille glove, and a closed-loop knee brace–glove system for running-speed monitoring and feedback  
 
 **Next Generation Asset Tracking System**  
-ENGINE Capstone Project · Advised by University of Washington Medical Center · Jan 2025 – Jun 2025  
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
+  <div>ENGINE Capstone Project · Advised by University of Washington Medical Center</div>
+  <div style="white-space:nowrap;">Jan 2025 – Jun 2025</div>
+</div>
 - Built an asset-tracking system using custom hardware, low-power embedded firmware, and a web dashboard for real-time location tracking, battery monitoring, and remote recalls  
 - Leveraged Wi-Fi-based positioning, pressure sensing for floor-level estimation, and a latching LED circuit for visual alerts  
+
 <span style="color:#FFA500;">**First Prize, ENGINE Capstone Program 2025 (Top 2 among 59 projects)**</span>
 
 **HaptiDrum**  
-Advanced Embedded System Capstone Project · Instructor: Shwetak Patel · Mar 2025 – Jun 2025  
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
+  <div>Advanced Embedded System Capstone Project · Instructor: Shwetak Patel</div>
+  <div style="white-space:nowrap;">Mar 2025 – Jun 2025</div>
+</div>
 - Developed a wearable air-drumming system with high-frequency motion tracking and advanced haptics  
 - Implemented precisely controlled electrical muscle stimulation (EMS) with hardware-level safety mechanisms to simulate realistic drumming sensations  
 
 **Miniaturized Rotational Probe for Magnetic Field Mapping**  
-Undergraduate Thesis · Advisor: Ka-Meng LEI · Aug 2023 – May 2024  
+<div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
+  <div>Undergraduate Thesis · Advisor: Ka-Meng LEI</div>
+  <div style="white-space:nowrap;">Aug 2023 – May 2024</div>
+</div>
 - Developed a 25 mm² PCB-patterned microcoil assembly motor-rotated inside an NMR magnet bore to map spatial magnetic field distribution via induced EMF measurements  
 - Reduced temperature sensitivity; achieved agreement with traditional methods within 0.5%  
+
 <span style="color:#FFA500;">**Dean’s Honor List for Undergraduate Thesis**</span>
 
 ---
