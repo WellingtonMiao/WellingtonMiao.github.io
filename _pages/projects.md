@@ -26,9 +26,7 @@ author_profile: true
 - Built an asset-tracking system using custom hardware, low-power embedded firmware, and a web dashboard for real-time location tracking, battery monitoring, and remote recalls.  
 - Leveraged Wi-Fi-based positioning, pressure sensing for floor-level estimation, and a latching LED circuit for visual alerts.  
 
-<ul style="margin:0; padding-left:2.2em; list-style-type:none;">
-  <li><span style="color:#FFA500;"><strong>First Prize, ENGINE Capstone Program 2025 (Top 2 among 59 projects)</strong></span></li>
-</ul>
+
 
 
 
@@ -52,6 +50,4 @@ author_profile: true
 - Developed a 25 mm² PCB-patterned microcoil assembly motor-rotated inside an NMR magnet bore to map spatial magnetic field distribution via induced EMF measurements.  
 - Reduced temperature sensitivity; achieved agreement with traditional methods within 0.5%.  
 
-<ul style="margin:0; padding-left:2.2em; list-style-type:none;">
-  <li><span style="color:#FFA500;"><strong>Dean’s Honor List for Undergraduate Thesis</strong></span></li>
-</ul>
+
