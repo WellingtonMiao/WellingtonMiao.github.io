@@ -29,8 +29,12 @@ redirect_from:
 <div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
   <em>B.S. in Electrical and Computer Engineering</em>
 </div>
-<div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
-  <a href="https://hc.um.edu.mo/">Honours College Certificate Programme</a> (selective Honors College program)
+<div style="display:flex; align-items:center; justify-content:space-between; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
+  <div>Honours College Certificate Programme</div>
+  <a href="https://hc.um.edu.mo/" target="_blank" rel="noopener noreferrer"
+     style="display:inline-block; padding:0.18rem 0.55rem; border:1px solid #ccc; border-radius:6px; font-size:0.92em; text-decoration:none;">
+    Visit
+  </a>
 </div>
 
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.8rem;">
