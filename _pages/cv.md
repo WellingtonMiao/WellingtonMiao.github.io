@@ -16,7 +16,7 @@ redirect_from:
   <div style="white-space:nowrap;">Sep 2024 – Jun 2026</div>
 </div>
 <div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
-  <em>M.S. in Electrical Engineering</em>
+  M.S. in Electrical Engineering
 </div>
 
 - Wearable Intelligence Lab, Advised by Prof. Yiyue Luo
@@ -27,7 +27,7 @@ redirect_from:
   <div style="white-space:nowrap;">Sep 2020 – Aug 2024</div>
 </div>
 <div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
-  <em>B.S. in Electrical and Computer Engineering</em>
+  B.S. in Electrical and Computer Engineering
 </div>
 <div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
   <span style="display:inline-flex; align-items:center; gap:0.5rem;">
@@ -44,7 +44,7 @@ redirect_from:
   <div style="white-space:nowrap;">Jan 2023 – May 2023</div>
 </div>
 <div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
-  <em>Exchange Program, Hajim School of Engineering &amp; Applied Sciences</em>
+  Exchange Program, Hajim School of Engineering &amp; Applied Sciences
 </div>
 
 ---
