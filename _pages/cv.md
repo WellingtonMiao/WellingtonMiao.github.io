@@ -19,8 +19,8 @@ redirect_from:
   M.S. in Electrical Engineering
 </div>
 
-- Wearable Intelligence Lab, Advised by Prof. Yiyue Luo
-- Ubicomp Lab, Advised by Prof. Shwetak Patel and PhD Student Jerry Cao
+- <a href="https://yyueluo.com/group.html" target="_blank" rel="noopener noreferrer">Wearable Intelligence Lab</a>, Advised by Prof. Yiyue Luo
+- <a href="https://ubicomplab.cs.washington.edu/" target="_blank" rel="noopener noreferrer">Ubicomp Lab</a>, Advised by Prof. Shwetak Patel and PhD Student Jerry Cao
 
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.8rem;">
   <div><strong>University of Macau</strong>, Taipa, Macau</div>
