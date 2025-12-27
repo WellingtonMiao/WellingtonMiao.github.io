@@ -11,6 +11,8 @@ redirect_from:
 
 ## Education
 
+<div style="margin-left:2em;">
+
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.2rem;">
   <div><strong>University of Washington</strong>, Seattle, WA</div>
   <div style="white-space:nowrap;">Sep 2024 – Jun 2026</div>
@@ -45,6 +47,8 @@ redirect_from:
 </div>
 <div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
   Exchange Program, Hajim School of Engineering &amp; Applied Sciences
+</div>
+
 </div>
 
 ---
