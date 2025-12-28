@@ -10,7 +10,7 @@ author_profile: true
 Fun fact about me:  
 I’m a huge roller coaster fanatic. I still haven’t found one that can actually make me scream.
 
-I also enjoy travel and photography.
+I also enjoy travel, soccer, and photography.
 
 <style>
   .fun-masonry{
