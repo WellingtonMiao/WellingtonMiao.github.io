@@ -15,4 +15,4 @@ He is enthusiastic about developing hardware-integrated interfaces that can seam
 
 Outside of research, he enjoys playing soccer, traveling, and trying new foods.
 
-He is seeking Ph.D. admission starting in Fall 2026.
+He is seeking PhD admission starting in Fall 2026.
