@@ -5,6 +5,6 @@ category: conferences
 permalink: /publication/chi2026-submission-6th
 date: 2025-09-21
 citation: |
-  **A paper submitted to CHI 2026 (Conditionally Accepted)**<br>
+  **One paper Conditionally Accepted at CHI 2026**<br>
   Author position: 2nd.
 ---
