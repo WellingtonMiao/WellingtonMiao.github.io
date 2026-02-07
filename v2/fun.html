@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>yuxuan (Wellington) Miao | Fun</title>
+  <meta name="description" content="Fun page of yuxuan (Wellington) Miao." />
+  <meta property="og:title" content="yuxuan (Wellington) Miao | Fun" />
+  <meta property="og:description" content="Fun facts and photos" />
+  <meta property="og:image" content="./assets/og-image.png" />
+  <link rel="icon" href="./assets/favicon.ico" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <canvas id="particles-canvas" aria-hidden="true"></canvas>
+  <div class="grain-overlay" aria-hidden="true"></div>
+  <div id="progressBar" class="progress-bar" aria-hidden="true"></div>
+
+  <header class="site-header" id="top">
+    <div class="container nav-wrap">
+      <a class="brand" href="./index.html#home">Wellington</a>
+      <button id="menuToggle" class="menu-toggle" aria-label="Toggle Menu" aria-expanded="false">☰</button>
+      <nav id="siteNav" class="site-nav">
+        <a href="./index.html#home" class="nav-link">Home</a>
+        <a href="./cv.html" class="nav-link">CV</a>
+        <a href="./index.html#projects" class="nav-link">Projects</a>
+        <a href="./index.html#publications" class="nav-link">Publications</a>
+        <a href="./fun.html" class="nav-link active">Fun</a>
+        <a href="./index.html#contact" class="nav-link">Contact</a>
+      </nav>
+      <div class="header-actions">
+        <button id="themeToggle" class="chip">Dark</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="fun" class="section hero">
+      <div class="container">
+        <h1>Fun</h1>
+        <p><strong>Fun fact about me:</strong></p>
+        <p>I’m a huge roller coaster fanatic. I still haven’t found one that can actually make me scream.</p>
+        <p>I also enjoy travel, soccer, and photography.</p>
+        <p>I am planning to share some photos I took here soon.</p>
+      </div>
+    </section>
+  </main>
+
+  <button id="backToTop" class="back-to-top" aria-label="Back to top">↑</button>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="./particles.js"></script>
+  <script src="./script.js"></script>
+</body>
+</html>

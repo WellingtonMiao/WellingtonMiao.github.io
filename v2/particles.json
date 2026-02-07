@@ -1,0 +1,11 @@
+﻿{
+  "count": 64,
+  "speed": 0.35,
+  "color": "#6fa8ff",
+  "opacity": 0.24,
+  "linkDistance": 130,
+  "size": {
+    "min": 0.8,
+    "max": 2.3
+  }
+}
