@@ -6,6 +6,7 @@ permalink: /publication/sensiprint-scf-adjunct-2025
 date: 2025-09-25
 venue: "SCF Adjunct '25: Adjunct Proceedings of the 10th Annual ACM Symposium on Computational Fabrication"
 authors: "Jerry Cao; Yuecheng Peng; Yuxuan Miao; Hongrui Wu; Sanjana Satagopan; Runxin Shi; Brier Hehmeyer; Brett Emery; Jeffrey Lipton; Jennifer Mankoff; Shwetak Patel"
+paperurl: "https://dl.acm.org/doi/full/10.1145/3774746.3779262"
 citation: |
   **<a href="/publication/sensiprint-scf-adjunct-2025"
         style="text-decoration:none; color:inherit;">

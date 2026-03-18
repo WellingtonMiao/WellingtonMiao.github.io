@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia     :
   arxiv        :
-  googlescholar:    # removed to hide Google Scholar from sidebar
+  googlescholar: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=un6306kAAAAJ&gmla=APjjwuYkeiFHXrlH_gSFYM5LF4e--H-cS5GW09kpbIMtq87V2B93A_0t7qa0OLoUqglSlqKWOJVA44R6IIe-lfp5KP8ObUrZ0Q"
   inspire-hep  :
   impactstory  :
   orcid        :

@@ -6,6 +6,7 @@ permalink: /publication/chi2026-submission-6th
 date: 2025-09-21
 venue: "CHI '26: ACM CHI Conference on Human Factors in Computing Systems"
 authors: "Chankyu (Charlie) Han; Yuxuan Miao; Sen Zhang; Yiyue Luo"
+paperurl: "https://chankyu-charlie.github.io/assets/pdf/MagBall_CHI26.pdf"
 citation: |
   **<a href="/publication/chi2026-submission-6th"
         style="text-decoration:none; color:inherit;">
