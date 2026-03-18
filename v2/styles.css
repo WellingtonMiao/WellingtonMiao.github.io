@@ -285,17 +285,6 @@ h1 { margin: 0.2rem 0 0.8rem; font-size: clamp(1.8rem, 3.2vw, 3rem); line-height
   color: var(--accent);
 }
 
-.contact-extra {
-  margin-top: 0.8rem;
-  display: flex;
-  align-items: center;
-  gap: 0.65rem;
-}
-
-.scholar-button {
-  padding-inline: 0.9rem;
-}
-
 .toast {
   position: fixed;
   right: 1rem;
