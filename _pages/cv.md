@@ -13,7 +13,7 @@ redirect_from:
 
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.2rem;">
   <div><strong>University of Washington</strong>, Seattle, WA</div>
-  <div style="white-space:nowrap;">Sep 2024 â€“ Jun 2026</div>
+  <div style="white-space:nowrap;">Sep 2024 - Jun 2026</div>
 </div>
 <div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
   M.S. in Electrical Engineering (Daytime)
@@ -24,7 +24,7 @@ redirect_from:
 
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.8rem;">
   <div><strong>University of Macau</strong>, Taipa, Macau</div>
-  <div style="white-space:nowrap;">Sep 2020 â€“ Aug 2024</div>
+  <div style="white-space:nowrap;">Sep 2020 - Aug 2024</div>
 </div>
 <div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
   B.S. in Electrical and Computer Engineering
@@ -41,7 +41,7 @@ redirect_from:
 
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; font-size:1.08em; line-height:1.35; margin-top:0.8rem;">
   <div><strong>University of Rochester</strong>, Rochester, NY</div>
-  <div style="white-space:nowrap;">Jan 2023 â€“ May 2023</div>
+  <div style="white-space:nowrap;">Jan 2023 - May 2023</div>
 </div>
 <div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
   Exchange Program, Hajim School of Engineering &amp; Applied Sciences
@@ -52,8 +52,8 @@ redirect_from:
 ## Teaching
 
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
-  <div><strong>Teaching Assistant â€” EE 546: Emerging Interactive Technologies</strong>, University of Washington</div>
-  <div style="white-space:nowrap;">Mar 2025 â€“ Jun 2025</div>
+  <div><strong>Teaching Assistant - EE 546: Emerging Interactive Technologies</strong>, University of Washington</div>
+  <div style="white-space:nowrap;">Mar 2025 - Jun 2025</div>
 </div>
 Instructor: Yiyue Luo
 
@@ -61,20 +61,20 @@ Instructor: Yiyue Luo
 
 ## Projects
 
-**Multifunctional Humanâ€“Machine Interface Enabled by Magnetoactive Textiles**  
+**Multifunctional Human-Machine Interface Enabled by Magnetoactive Textiles**  
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
-  <div>Graduate Research Â· Advisor: Yiyue Luo</div>
-  <div style="white-space:nowrap;">Oct 2024 â€“ Current</div>
+  <div>Graduate Research - Advisor: Yiyue Luo</div>
+  <div style="white-space:nowrap;">Oct 2024 - Current</div>
 </div>
-- Developed a bidirectional humanâ€“machine interface platform integrating sensing and haptic feedback in a unified wearable structure by embedding soft magnetoactive fibers into machine-knitted electromagnets.  
-- Demonstrated applications including a wireless smart sleeve for game control, a haptic Braille glove, and a closed-loop knee braceâ€“glove system for running-speed monitoring and feedback.  
+- Developed a bidirectional human-machine interface platform integrating sensing and haptic feedback in a unified wearable structure by embedding soft magnetoactive fibers into machine-knitted electromagnets.  
+- Demonstrated applications including a wireless smart sleeve for game control, a haptic Braille glove, and a closed-loop knee brace-glove system for running-speed monitoring and feedback.  
 
 
 
 **Next Generation Asset Tracking System**  
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
-  <div>ENGINE Capstone Project Â· Advised by University of Washington Medical Center</div>
-  <div style="white-space:nowrap;">Jan 2025 â€“ Jun 2025</div>
+  <div>ENGINE Capstone Project - Advised by University of Washington Medical Center</div>
+  <div style="white-space:nowrap;">Jan 2025 - Jun 2025</div>
 </div>
 - Built an asset-tracking system using custom hardware, low-power embedded firmware, and a web dashboard for real-time location tracking, battery monitoring, and remote recalls.  
 - Leveraged Wi-Fi-based positioning, pressure sensing for floor-level estimation, and a latching LED circuit for visual alerts.  
@@ -87,8 +87,8 @@ Instructor: Yiyue Luo
 
 **HaptiDrum**  
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
-  <div>Advanced Embedded System Capstone Project Â· Instructor: Shwetak Patel</div>
-  <div style="white-space:nowrap;">Mar 2025 â€“ Jun 2025</div>
+  <div>Advanced Embedded System Capstone Project - Instructor: Shwetak Patel</div>
+  <div style="white-space:nowrap;">Mar 2025 - Jun 2025</div>
 </div>
 - Developed a wearable air-drumming system with high-frequency motion tracking and advanced haptics.  
 - Implemented precisely controlled electrical muscle stimulation (EMS) with hardware-level safety mechanisms to simulate realistic drumming sensations.  
@@ -97,14 +97,14 @@ Instructor: Yiyue Luo
 
 **Miniaturized Rotational Probe for Magnetic Field Mapping**  
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
-  <div>Undergraduate Thesis Â· Advisor: Ka-Meng LEI</div>
-  <div style="white-space:nowrap;">Aug 2023 â€“ May 2024</div>
+  <div>Undergraduate Thesis - Advisor: Ka-Meng LEI</div>
+  <div style="white-space:nowrap;">Aug 2023 - May 2024</div>
 </div>
-- Developed a 25 mmÂ² PCB-patterned microcoil assembly motor-rotated inside an NMR magnet bore to map spatial magnetic field distribution via induced EMF measurements.  
+- Developed a 25 mm^2 PCB-patterned microcoil assembly motor-rotated inside an NMR magnet bore to map spatial magnetic field distribution via induced EMF measurements.  
 - Reduced temperature sensitivity; achieved agreement with traditional methods within 0.5%.  
 
 <ul style="margin:0; padding-left:2.2em; list-style-type:none;">
-  <li><span style="color:#FFA500;"><strong>Deanâ€™s Honor List for Undergraduate Thesis</strong></span></li>
+  <li><span style="color:#FFA500;"><strong>Dean's Honor List for Undergraduate Thesis</strong></span></li>
 </ul>
 
 ---
@@ -112,8 +112,8 @@ Instructor: Yiyue Luo
 ## Employment
 
 <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem;">
-  <div><strong>Residential Assistant</strong> â€” Cheng Yu Tung College, University of Macau</div>
-  <div style="white-space:nowrap;">May 2022 â€“ Dec 2022</div>
+  <div><strong>Residential Assistant</strong> - Cheng Yu Tung College, University of Macau</div>
+  <div style="white-space:nowrap;">May 2022 - Dec 2022</div>
 </div>
 
 ---
@@ -123,8 +123,9 @@ Instructor: Yiyue Luo
 - Best Paper Honorable Mention Award (Top ~5%), ACM UIST, 2025  
 - Graduate School Conference Presentation Award, University of Washington (UW), 2025  
 - First Prize, Engineering Innovation and Entrepreneurship (ENGINE) Capstone Program, UW, 2025  
-- Deanâ€™s Honor List for Undergraduate Thesis, University of Macau (UM), 2024  
+- Dean's Honor List for Undergraduate Thesis, University of Macau (UM), 2024  
 - Sir Run Run Shaw Scholarship (awarded to 11 students university-wide per year), UM, 2023  
-- 3Ã— Residential College Scholarship, UM, 2021â€“2023  
-- University Soccer tournament 2Ã— Champion, 1Ã— 1st Runner-up, 2Ã— 2nd Runner-up, UM, 2021â€“2023  
+- 3x Residential College Scholarship, UM, 2021-2023  
+- University Soccer tournament 2x Champion, 1x 1st Runner-up, 2x 2nd Runner-up, UM, 2021-2023  
+
 
