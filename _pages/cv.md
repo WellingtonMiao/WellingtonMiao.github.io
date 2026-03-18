@@ -31,7 +31,7 @@ redirect_from:
 </div>
 <div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
   <span style="display:inline-flex; align-items:center; gap:0.5rem;">
-    Honours College Certificate Programme
+    Honours College Programme
     <a href="https://hc.um.edu.mo/" target="_blank" rel="noopener noreferrer"
        style="display:inline-block; padding:0.18rem 0.55rem; border:1px solid #ccc; border-radius:6px; font-size:0.92em; text-decoration:none;">
       link
