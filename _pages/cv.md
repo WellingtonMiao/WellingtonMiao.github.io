@@ -16,7 +16,7 @@ redirect_from:
   <div style="white-space:nowrap;">Sep 2024 â€“ Jun 2026</div>
 </div>
 <div style="font-size:1.08em; line-height:1.35; margin-top:0.1rem;">
-  M.S. in Electrical Engineering
+  M.S. in Electrical Engineering (Daytime)
 </div>
 
 - <a href="https://yyueluo.com/group.html" target="_blank" rel="noopener noreferrer">Wearable Intelligence Lab</a>, Advised by Prof. Yiyue Luo
